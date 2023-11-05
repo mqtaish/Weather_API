@@ -4,5 +4,6 @@
     "min": "الصغرى",
     "max": "الكبرى",
     "clear sky": "السماء صافية",
-    "overcast clouds" : "غائم جزئيًا"
+    "overcast clouds" : "غائم جزئيًا",
+    "haze" : "ضباب"
   }
